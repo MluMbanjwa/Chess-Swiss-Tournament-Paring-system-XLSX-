@@ -1,0 +1,168 @@
+/* ===== GLOBAL ===== */
+QWidget {
+    background-color: #1e2e2f;
+    color: #e0e0e0;
+    font-family: Segoe UI;
+    font-size: 14px;
+}
+
+/* ===== GROUP BOX ===== */
+QGroupBox {
+    border: 1px solid #3a3a4f;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    padding: 0 5px;
+    color: #ffffff;
+}
+
+/* ===== BUTTONS ===== */
+QPushButton {
+    background-color: #3b82f6;
+    border-radius: 6px;
+    padding: 6px 12px;
+    color: white;
+    border: none;
+}
+
+QPushButton:hover {
+    background-color: #2563eb;
+}
+
+QPushButton:pressed {
+    background-color: #1d4ed8;
+}
+
+/* Special button */
+QPushButton#nextRoundBtn {
+    background-color: #22c55e;
+    font-weight: bold;
+}
+QPushButton#backRoundBtn {
+    background-color: #22c55e;
+    font-weight: bold;
+}
+QPushButton#nextRoundBtn:hover {
+    background-color: #16a34a;
+}
+QPushButton#backRoundBtn:hover {
+    background-color: #16a34a;
+}
+
+/* ===== CHECKBOX ===== */
+QCheckBox {
+    spacing: 8px;
+
+}
+
+QCheckBox::indicator {
+    width: 16px;
+    height: 16px;
+}
+
+QCheckBox::indicator:unchecked {
+    border: 1px solid #aaa;
+    background: transparent;
+}
+
+QCheckBox::indicator:checked {
+    background-color: #3b82f6;
+    border: 1px solid #3b82f6;
+}
+
+/* ===== LABEL ===== */
+QLabel {
+    font-size: 15px;
+}
+
+/* ===== TABLE (Parings UI) ===== */
+QTableWidget {
+    background-color: transparent;
+    color:white;
+    border: none;
+    gridline-color: #444;
+}
+
+QHeaderView::section {
+    background-color: #3a3a4f;
+    color: white;
+    padding: 1px;
+    border: none;
+}
+
+QTableWidget::item {
+    padding: 0px;
+    margin:0px;
+    font-size: 100px;
+}
+
+QTableWidget::item:selected {
+    background-color: #3b82f6;
+}
+QSpinBox
+{
+    background-color:white;
+    color:black;
+}
+QDateEdit
+{
+    background-color:white;
+    color:black;
+}
+/* ===== TREE VIEW (Player list) ===== */
+QTreeWidget {
+    background-color: white;
+    border: none;
+}
+QLineEdit{
+    background-color: white;
+    color: black;
+}
+QComboBox{
+    background-color: white;
+    color: black;
+}
+QTreeWidget::item {
+    padding: 4px;
+    background-color:white;
+    color:black;
+}
+
+QTreeWidget::item:selected {
+    background-color: #3b82f6;
+}
+
+/* ===== RADIO BUTTON ===== */
+QRadioButton {
+    spacing: 6px;
+    padding: 0px;
+    margin:10px;
+}
+
+QRadioButton::indicator {
+    width: 14px;
+    height: 14px;
+}
+
+QRadioButton::indicator:checked {
+    background-color: #3b82f6;
+    border-radius: 7px;
+}
+
+/* ===== SCROLLBAR ===== */
+QScrollBar:vertical {
+    background: #1e1e2f;
+    width: 10px;
+    color:white;
+}
+
+QScrollBar::handle:vertical {
+    background: #3a3a4f;
+    border-radius: 5px;
+}
