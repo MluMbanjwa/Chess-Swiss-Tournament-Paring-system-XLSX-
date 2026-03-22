@@ -1,0 +1,57 @@
+# ninja log v6
+18	1839	7959042124738835	QXlsx/QXlsx_autogen/timestamp	62271216b42db146
+18	1839	7959042124738835	QXlsx/QXlsx_autogen/mocs_compilation.cpp	62271216b42db146
+18	1839	7959042124738835	C:/Users/Mr M/Documents/Chess_Paring_system/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/QXlsx/QXlsx_autogen/timestamp	62271216b42db146
+18	1839	7959042124738835	C:/Users/Mr M/Documents/Chess_Paring_system/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/QXlsx/QXlsx_autogen/mocs_compilation.cpp	62271216b42db146
+2014	7519	7959042127634582	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcellrange.cpp.obj	4a55e4c7b4cbd3aa
+1848	8806	7959042125961656	QXlsx/CMakeFiles/QXlsx.dir/QXlsx_autogen/mocs_compilation.cpp.obj	e2f99d061883b6a3
+3050	9469	7959042137989961	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxabstractooxmlfile.cpp.obj	6a9d9a813fdf76fb
+2230	9785	7959042129793504	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcontenttypes.cpp.obj	420b5920d040ee36
+3715	10444	7959042144640746	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdrawing.cpp.obj	8873c046671fb8f0
+3269	10869	7959042140181343	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcellreference.cpp.obj	9ecbd3fb839893e1
+2637	11241	7959042133852905	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxrichstring.cpp.obj	9645e011cb5111c0
+4360	11638	7959042151085654	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxabstractsheet.cpp.obj	ee0c9dd0ab82aabd
+4899	11988	7959042156484080	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdatetype.cpp.obj	647d6680d5b893b8
+2435	12266	7959042131835435	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdrawinganchor.cpp.obj	a5d3e0922c779f
+5636	12932	7959042163845735	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxsimpleooxmlfile.cpp.obj	f6b40e20cb46ed1c
+3908	13268	7959042146564886	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxsharedstrings.cpp.obj	d1a28868ce7d182f
+5303	13822	7959042160524988	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxformat.cpp.obj	d88743918d4509f0
+5970	14789	7959042167186480	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxzipreader.cpp.obj	7c0166efe8f9b80a
+3482	15287	7959042142312493	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdatavalidation.cpp.obj	ac9deaf2c198dd94
+4626	15850	7959042153750699	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxchart.cpp.obj	44997356f51fcd73
+2824	16123	7959042135727613	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxworkbook.cpp.obj	2e0e51b1cf7f4254
+9786	17854	7959042205341123	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxmediafile.cpp.obj	ddac7a8f1ae7f1a
+7520	18036	7959042182686052	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcell.cpp.obj	57f4704411166d5e
+10870	18120	7959042216183561	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxzipwriter.cpp.obj	e869305081d181d
+8807	18386	7959042195558945	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxchartsheet.cpp.obj	90082ade39b80597
+11242	18424	7959042219914402	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcellformula.cpp.obj	bc40a8726ca9242a
+12266	18552	7959042230157190	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxnumformatparser.cpp.obj	a817850ed8143951
+9470	18955	7959042202180414	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdocpropsapp.cpp.obj	29131bd6ae7e80a8
+12933	19903	7959042236818681	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxtheme.cpp.obj	52cbe207be3ee000
+11638	20026	7959042223875784	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcolor.cpp.obj	74bc2ad47870a585
+13268	20037	7959042240169438	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxcelllocation.cpp.obj	df54ac3bdf91ea69
+11988	20317	7959042227366566	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdocpropscore.cpp.obj	b8bba744d35d2d6f
+4122	21302	7959042148708369	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxworksheet.cpp.obj	75daba6d3229a89b
+15288	21845	7959042260368847	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxrelationships.cpp.obj	85007a328b2146d2
+15850	22091	7959042265990872	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxutility.cpp.obj	befcea35bdd1113d
+13823	22541	7959042245720686	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxconditionalformatting.cpp.obj	e49074c77dacd232
+10444	23166	7959042211932609	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxstyles.cpp.obj	6f041256219abbca
+14789	24575	7959042255387731	QXlsx/CMakeFiles/QXlsx.dir/source/xlsxdocument.cpp.obj	99bccfdfb35f7577
+24575	39227	7959042495072476	QXlsx/libQXlsxQt6.dll	8e089549894dc9b
+24575	39227	7959042495072476	QXlsx/libQXlsxQt6.dll.a	8e089549894dc9b
+39228	42343	7959042529328433	Chess_Paring_system_autogen/timestamp	dd99324275fec4ab
+39228	42343	7959042529328433	Chess_Paring_system_autogen/mocs_compilation.cpp	dd99324275fec4ab
+39228	42343	7959042529328433	C:/Users/Mr M/Documents/Chess_Paring_system/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Chess_Paring_system_autogen/timestamp	dd99324275fec4ab
+39228	42343	7959042529328433	C:/Users/Mr M/Documents/Chess_Paring_system/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Chess_Paring_system_autogen/mocs_compilation.cpp	dd99324275fec4ab
+42962	48144	7959042537109450	CMakeFiles/Chess_Paring_system.dir/game.cpp.obj	2d11697e05341a95
+42830	48777	7959042535788981	CMakeFiles/Chess_Paring_system.dir/player.cpp.obj	d3e898c7f3248c5
+43408	49812	7959042541567307	CMakeFiles/Chess_Paring_system.dir/scoreselector.cpp.obj	d25e68895794bf7b
+43112	51328	7959042538600121	CMakeFiles/Chess_Paring_system.dir/playerlist.cpp.obj	5e9b2bf3de759224
+42533	51431	7959042532814747	CMakeFiles/Chess_Paring_system.dir/main.cpp.obj	d122a46e912bb044
+42680	51525	7959042534284580	CMakeFiles/Chess_Paring_system.dir/mainwindow.cpp.obj	648c31904fe27b3b
+43270	52377	7959042540190425	CMakeFiles/Chess_Paring_system.dir/treeviewer.cpp.obj	4bdd39dec422d94b
+43936	52786	7959042546852597	CMakeFiles/Chess_Paring_system.dir/inputs.cpp.obj	e3fb5668fb3be2a9
+43619	53030	7959042543677717	CMakeFiles/Chess_Paring_system.dir/paring.cpp.obj	55711074f7a41a1c
+42348	53053	7959042530964559	CMakeFiles/Chess_Paring_system.dir/Chess_Paring_system_autogen/mocs_compilation.cpp.obj	fcd9c7446e68331c
+43771	53357	7959042545192281	CMakeFiles/Chess_Paring_system.dir/tournament.cpp.obj	fa10f0ac7d6919c1
+53357	56780	7959042641066780	Chess_Paring_system.exe	2b640bc28fc7823e
