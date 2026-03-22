@@ -1,6 +1,0 @@
-set(__QT_DEPLOY_TARGET_QXlsx_FILE C:/Users/Mr M/Documents/Chess_Paring_system/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/QXlsx/libQXlsxQt6.dll)
-set(__QT_DEPLOY_TARGET_QXlsx_TYPE SHARED_LIBRARY)
-set(__QT_DEPLOY_TARGET_QXlsx_RUNTIME_DLLS C:/Qt/6.8.1/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.8.1/mingw_64/bin/Qt6Core.dll)
-set(__QT_DEPLOY_TARGET_Chess_Paring_system_FILE C:/Users/Mr M/Documents/Chess_Paring_system/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Chess_Paring_system.exe)
-set(__QT_DEPLOY_TARGET_Chess_Paring_system_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_Chess_Paring_system_RUNTIME_DLLS C:/Users/Mr M/Documents/Chess_Paring_system/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/QXlsx/libQXlsxQt6.dll;C:/Qt/6.8.1/mingw_64/bin/Qt6PrintSupport.dll;C:/Qt/6.8.1/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.8.1/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.8.1/mingw_64/bin/Qt6Core.dll)

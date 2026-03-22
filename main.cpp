@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 {
 
     QApplication a(argc, argv);
-    QFile file("styles.qss"); // or "style.qss"
+    QFile file("./styles.qss"); // or "style.qss"
     if (!file.exists()) {
         qDebug() << "QSS file does NOT exist!";
     }
